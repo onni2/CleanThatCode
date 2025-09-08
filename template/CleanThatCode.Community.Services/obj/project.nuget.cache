@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "83i9Nr1u1L0=",
+  "dgSpecHash": "61ZtdbHSeA0=",
   "success": true,
-  "projectFilePath": "/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Services/CleanThatCode.Community.Services.csproj",
+  "projectFilePath": "/home/onni2/code/2025vor/NET/template(1)/CleanThatCode/template/CleanThatCode.Community.Services/CleanThatCode.Community.Services.csproj",
   "expectedPackageFiles": [
     "/home/onni2/.nuget/packages/microsoft.netcore.app.ref/8.0.19/microsoft.netcore.app.ref.8.0.19.nupkg.sha512",
     "/home/onni2/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.19/microsoft.aspnetcore.app.ref.8.0.19.nupkg.sha512"

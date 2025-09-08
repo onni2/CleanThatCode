@@ -1,18 +1,20 @@
-using System.Linq;
+using System.Collections.Generic;
 using CleanThatCode.Community.Models.Entities;
-using CleanThatCode.Community.Repositories;
+using CleanThatCode.Community.Repositories.Data;
 
 namespace CleanThatCode.Community.Tests.Mocks
 {
     public class CleanThatCodeDbContextMock : ICleanThatCodeDbContext
     {
-        public IQueryable<Post> Posts { get; }
-        public IQueryable<Comment> Comments { get; }
+        // implement interface exactly
+        public IEnumerable<Comment> Comments { get; private set; }
+        public IEnumerable<Post> Posts { get; private set; }
 
         public CleanThatCodeDbContextMock()
         {
-            Posts = FakeData.Posts.AsQueryable();
-            Comments = FakeData.Comments.AsQueryable();
+            // use FakeData.cs to populate
+            Comments = FakeData.Comments;
+            Posts = FakeData.Posts;
         }
     }
 }

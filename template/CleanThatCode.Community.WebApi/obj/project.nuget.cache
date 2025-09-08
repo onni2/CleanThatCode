@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i4ttn+6y+I8=",
+  "dgSpecHash": "hO/9JT2qavw=",
   "success": true,
-  "projectFilePath": "/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.WebApi/CleanThatCode.Community.WebApi.csproj",
+  "projectFilePath": "/home/onni2/code/2025vor/NET/template(1)/CleanThatCode/template/CleanThatCode.Community.WebApi/CleanThatCode.Community.WebApi.csproj",
   "expectedPackageFiles": [
     "/home/onni2/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/home/onni2/.nuget/packages/microsoft.openapi/1.6.14/microsoft.openapi.1.6.14.nupkg.sha512",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Models/CleanThatCode.Community.Models.csproj",
+      "projectUniqueName": "/home/onni2/code/2025vor/NET/template(1)/CleanThatCode/template/CleanThatCode.Community.Models/CleanThatCode.Community.Models.csproj",
       "projectName": "CleanThatCode.Community.Models",
-      "projectPath": "/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Models/CleanThatCode.Community.Models.csproj",
+      "projectPath": "/home/onni2/code/2025vor/NET/template(1)/CleanThatCode/template/CleanThatCode.Community.Models/CleanThatCode.Community.Models.csproj",
       "packagesPath": "/home/onni2/.nuget/packages/",
-      "outputPath": "/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Models/obj/",
+      "outputPath": "/home/onni2/code/2025vor/NET/template(1)/CleanThatCode/template/CleanThatCode.Community.Models/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/onni2/.nuget/NuGet/NuGet.Config"

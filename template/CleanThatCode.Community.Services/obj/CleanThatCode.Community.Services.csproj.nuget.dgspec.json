@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Services/CleanThatCode.Community.Services.csproj": {}
+    "/home/onni2/code/2025vor/NET/template(1)/CleanThatCode/template/CleanThatCode.Community.Services/CleanThatCode.Community.Services.csproj": {}
   },
   "projects": {
-    "/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Models/CleanThatCode.Community.Models.csproj": {
+    "/home/onni2/code/2025vor/NET/template(1)/CleanThatCode/template/CleanThatCode.Community.Models/CleanThatCode.Community.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Models/CleanThatCode.Community.Models.csproj",
+        "projectUniqueName": "/home/onni2/code/2025vor/NET/template(1)/CleanThatCode/template/CleanThatCode.Community.Models/CleanThatCode.Community.Models.csproj",
         "projectName": "CleanThatCode.Community.Models",
-        "projectPath": "/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Models/CleanThatCode.Community.Models.csproj",
+        "projectPath": "/home/onni2/code/2025vor/NET/template(1)/CleanThatCode/template/CleanThatCode.Community.Models/CleanThatCode.Community.Models.csproj",
         "packagesPath": "/home/onni2/.nuget/packages/",
-        "outputPath": "/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Models/obj/",
+        "outputPath": "/home/onni2/code/2025vor/NET/template(1)/CleanThatCode/template/CleanThatCode.Community.Models/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/onni2/.nuget/NuGet/NuGet.Config"
@@ -73,14 +73,14 @@
         }
       }
     },
-    "/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Repositories/CleanThatCode.Community.Repositories.csproj": {
+    "/home/onni2/code/2025vor/NET/template(1)/CleanThatCode/template/CleanThatCode.Community.Repositories/CleanThatCode.Community.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Repositories/CleanThatCode.Community.Repositories.csproj",
+        "projectUniqueName": "/home/onni2/code/2025vor/NET/template(1)/CleanThatCode/template/CleanThatCode.Community.Repositories/CleanThatCode.Community.Repositories.csproj",
         "projectName": "CleanThatCode.Community.Repositories",
-        "projectPath": "/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Repositories/CleanThatCode.Community.Repositories.csproj",
+        "projectPath": "/home/onni2/code/2025vor/NET/template(1)/CleanThatCode/template/CleanThatCode.Community.Repositories/CleanThatCode.Community.Repositories.csproj",
         "packagesPath": "/home/onni2/.nuget/packages/",
-        "outputPath": "/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Repositories/obj/",
+        "outputPath": "/home/onni2/code/2025vor/NET/template(1)/CleanThatCode/template/CleanThatCode.Community.Repositories/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/onni2/.nuget/NuGet/NuGet.Config"
@@ -95,8 +95,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Models/CleanThatCode.Community.Models.csproj": {
-                "projectPath": "/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Models/CleanThatCode.Community.Models.csproj"
+              "/home/onni2/code/2025vor/NET/template(1)/CleanThatCode/template/CleanThatCode.Community.Models/CleanThatCode.Community.Models.csproj": {
+                "projectPath": "/home/onni2/code/2025vor/NET/template(1)/CleanThatCode/template/CleanThatCode.Community.Models/CleanThatCode.Community.Models.csproj"
               }
             }
           }
@@ -146,14 +146,14 @@
         }
       }
     },
-    "/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Services/CleanThatCode.Community.Services.csproj": {
+    "/home/onni2/code/2025vor/NET/template(1)/CleanThatCode/template/CleanThatCode.Community.Services/CleanThatCode.Community.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Services/CleanThatCode.Community.Services.csproj",
+        "projectUniqueName": "/home/onni2/code/2025vor/NET/template(1)/CleanThatCode/template/CleanThatCode.Community.Services/CleanThatCode.Community.Services.csproj",
         "projectName": "CleanThatCode.Community.Services",
-        "projectPath": "/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Services/CleanThatCode.Community.Services.csproj",
+        "projectPath": "/home/onni2/code/2025vor/NET/template(1)/CleanThatCode/template/CleanThatCode.Community.Services/CleanThatCode.Community.Services.csproj",
         "packagesPath": "/home/onni2/.nuget/packages/",
-        "outputPath": "/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Services/obj/",
+        "outputPath": "/home/onni2/code/2025vor/NET/template(1)/CleanThatCode/template/CleanThatCode.Community.Services/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/onni2/.nuget/NuGet/NuGet.Config"
@@ -168,11 +168,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Models/CleanThatCode.Community.Models.csproj": {
-                "projectPath": "/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Models/CleanThatCode.Community.Models.csproj"
+              "/home/onni2/code/2025vor/NET/template(1)/CleanThatCode/template/CleanThatCode.Community.Models/CleanThatCode.Community.Models.csproj": {
+                "projectPath": "/home/onni2/code/2025vor/NET/template(1)/CleanThatCode/template/CleanThatCode.Community.Models/CleanThatCode.Community.Models.csproj"
               },
-              "/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Repositories/CleanThatCode.Community.Repositories.csproj": {
-                "projectPath": "/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Repositories/CleanThatCode.Community.Repositories.csproj"
+              "/home/onni2/code/2025vor/NET/template(1)/CleanThatCode/template/CleanThatCode.Community.Repositories/CleanThatCode.Community.Repositories.csproj": {
+                "projectPath": "/home/onni2/code/2025vor/NET/template(1)/CleanThatCode/template/CleanThatCode.Community.Repositories/CleanThatCode.Community.Repositories.csproj"
               }
             }
           }

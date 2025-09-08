@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ynUkaFwaZJo=",
+  "dgSpecHash": "1MSPlWgkoro=",
   "success": true,
-  "projectFilePath": "/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Tests/CleanThatCode.Community.Tests.csproj",
+  "projectFilePath": "/home/onni2/code/2025vor/NET/template(1)/CleanThatCode/template/CleanThatCode.Community.Tests/CleanThatCode.Community.Tests.csproj",
   "expectedPackageFiles": [
     "/home/onni2/.nuget/packages/bogus/35.6.0/bogus.35.6.0.nupkg.sha512",
     "/home/onni2/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
