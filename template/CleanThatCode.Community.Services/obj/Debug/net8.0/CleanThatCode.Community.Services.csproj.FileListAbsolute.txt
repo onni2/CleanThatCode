@@ -1,0 +1,17 @@
+/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Services/bin/Debug/net8.0/CleanThatCode.Community.Services.deps.json
+/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Services/bin/Debug/net8.0/CleanThatCode.Community.Services.dll
+/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Services/bin/Debug/net8.0/CleanThatCode.Community.Services.pdb
+/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Services/bin/Debug/net8.0/CleanThatCode.Community.Models.dll
+/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Services/bin/Debug/net8.0/CleanThatCode.Community.Repositories.dll
+/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Services/bin/Debug/net8.0/CleanThatCode.Community.Repositories.pdb
+/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Services/bin/Debug/net8.0/CleanThatCode.Community.Models.pdb
+/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Services/obj/Debug/net8.0/CleanThatCode.Community.Services.csproj.AssemblyReference.cache
+/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Services/obj/Debug/net8.0/CleanThatCode.Community.Services.GeneratedMSBuildEditorConfig.editorconfig
+/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Services/obj/Debug/net8.0/CleanThatCode.Community.Services.AssemblyInfoInputs.cache
+/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Services/obj/Debug/net8.0/CleanThatCode.Community.Services.AssemblyInfo.cs
+/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Services/obj/Debug/net8.0/CleanThatCode.Community.Services.csproj.CoreCompileInputs.cache
+/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Services/obj/Debug/net8.0/CleanTha.CBC14650.Up2Date
+/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Services/obj/Debug/net8.0/CleanThatCode.Community.Services.dll
+/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Services/obj/Debug/net8.0/refint/CleanThatCode.Community.Services.dll
+/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Services/obj/Debug/net8.0/CleanThatCode.Community.Services.pdb
+/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Services/obj/Debug/net8.0/ref/CleanThatCode.Community.Services.dll

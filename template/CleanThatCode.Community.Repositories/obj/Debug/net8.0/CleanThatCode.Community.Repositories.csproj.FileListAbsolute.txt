@@ -1,0 +1,15 @@
+/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Repositories/bin/Debug/net8.0/CleanThatCode.Community.Repositories.deps.json
+/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Repositories/bin/Debug/net8.0/CleanThatCode.Community.Repositories.dll
+/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Repositories/bin/Debug/net8.0/CleanThatCode.Community.Repositories.pdb
+/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Repositories/bin/Debug/net8.0/CleanThatCode.Community.Models.dll
+/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Repositories/bin/Debug/net8.0/CleanThatCode.Community.Models.pdb
+/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Repositories/obj/Debug/net8.0/CleanThatCode.Community.Repositories.csproj.AssemblyReference.cache
+/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Repositories/obj/Debug/net8.0/CleanThatCode.Community.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Repositories/obj/Debug/net8.0/CleanThatCode.Community.Repositories.AssemblyInfoInputs.cache
+/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Repositories/obj/Debug/net8.0/CleanThatCode.Community.Repositories.AssemblyInfo.cs
+/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Repositories/obj/Debug/net8.0/CleanThatCode.Community.Repositories.csproj.CoreCompileInputs.cache
+/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Repositories/obj/Debug/net8.0/CleanTha.DDF710CB.Up2Date
+/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Repositories/obj/Debug/net8.0/CleanThatCode.Community.Repositories.dll
+/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Repositories/obj/Debug/net8.0/refint/CleanThatCode.Community.Repositories.dll
+/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Repositories/obj/Debug/net8.0/CleanThatCode.Community.Repositories.pdb
+/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Repositories/obj/Debug/net8.0/ref/CleanThatCode.Community.Repositories.dll

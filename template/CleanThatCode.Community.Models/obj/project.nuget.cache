@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oI1o9zxylRE=",
+  "success": true,
+  "projectFilePath": "/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Models/CleanThatCode.Community.Models.csproj",
+  "expectedPackageFiles": [
+    "/home/onni2/.nuget/packages/microsoft.netcore.app.ref/8.0.19/microsoft.netcore.app.ref.8.0.19.nupkg.sha512",
+    "/home/onni2/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.19/microsoft.aspnetcore.app.ref.8.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

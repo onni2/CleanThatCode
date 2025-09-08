@@ -1,0 +1,11 @@
+/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Common/bin/Debug/net8.0/CleanThatCode.Community.Common.deps.json
+/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Common/bin/Debug/net8.0/CleanThatCode.Community.Common.dll
+/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Common/bin/Debug/net8.0/CleanThatCode.Community.Common.pdb
+/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Common/obj/Debug/net8.0/CleanThatCode.Community.Common.GeneratedMSBuildEditorConfig.editorconfig
+/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Common/obj/Debug/net8.0/CleanThatCode.Community.Common.AssemblyInfoInputs.cache
+/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Common/obj/Debug/net8.0/CleanThatCode.Community.Common.AssemblyInfo.cs
+/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Common/obj/Debug/net8.0/CleanThatCode.Community.Common.csproj.CoreCompileInputs.cache
+/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Common/obj/Debug/net8.0/CleanThatCode.Community.Common.dll
+/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Common/obj/Debug/net8.0/refint/CleanThatCode.Community.Common.dll
+/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Common/obj/Debug/net8.0/CleanThatCode.Community.Common.pdb
+/home/onni2/code/2025vor/NET/template(1)/template/CleanThatCode.Community.Common/obj/Debug/net8.0/ref/CleanThatCode.Community.Common.dll
