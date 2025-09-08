@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CleanThatCode.Community.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1348e90242743e27952f6e8d49fda8f7b00957c8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6bbbd6b99134c9f1ecb3630d2efa1be822cb417c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CleanThatCode.Community.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CleanThatCode.Community.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
